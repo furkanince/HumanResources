@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "180867502276",
+    "firebase_url": "https://ik2denemecumra.firebaseio.com",
+    "project_id": "ik2denemecumra",
+    "storage_bucket": "ik2denemecumra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180867502276:android:9884e957183bba75",
+        "android_client_info": {
+          "package_name": "com.example.furkan.cumrafirebaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180867502276-km3e1dcuq5kkcn2lnu0lp9tvs3olji2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9J8uF82jzrT0-MWQB8VQI_EP_3D83Cu8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

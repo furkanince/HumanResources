@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CumraFirebaseExample</string>
+
+
+    <array name="ogrenim">
+        <item>Lise</item>
+        <item>ÖnLisans</item>
+        <item>Lisans</item>
+        <item>Yüksek Lisans</item>
+        <item>Doktora</item>
+    </array>
+
+    <array name="gender">
+        <item>Erkek</item>
+        <item>Kadın</item>
+    </array>
+
+
+</resources>
