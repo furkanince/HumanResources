@@ -21,7 +21,8 @@
         <activity android:name=".View.MainActivity" />
         <activity android:name=".View.ElemanEkle.ElemanEkleActivity" />
         <activity android:name=".View.ElemanEkle.ElemanListeActivity" />
-        <activity android:name=".View.ElemanEkle.ElemanDetails"></activity>
+        <activity android:name=".View.ElemanEkle.ElemanDetails" />
+        <activity android:name=".View.ElemanEkle.Eleman_Guncelle"></activity>
     </application>
 
 </manifest>
